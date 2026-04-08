@@ -1,5 +1,7 @@
 # Defective Parts Classification in Manufacturing
 
+This project was developed as part of a Master's program in AI Solutions Architect. It aims to apply artificial intelligence and machine learning techniques to solve real-world problem.
+
 ## Project Overview
 
 This project aims to develop a machine learning model to classify manufactured parts as 'conforming' or 'defective' based on various production parameters. The goal is to identify patterns that lead to defects, improve quality control, and reduce waste in the production process.
